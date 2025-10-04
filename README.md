@@ -7,5 +7,7 @@ new line from local by me
 
 # feature
 1 - login feature added
-2 - logib form created
+2 - login form created
 3 - login form validation failed
+4 - login form completed
+
