@@ -11,5 +11,5 @@ new line from local by me
 3 - login form validation failed
 4 - login form completed
 
-1 - signin feature added
+1 - signup feature added
 2 - signup page designed
